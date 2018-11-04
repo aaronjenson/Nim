@@ -1,0 +1,34 @@
+.black-background {
+    background: black;
+    color: white;
+}
+
+.top-bar {
+    margin: 0px;
+}
+
+.right {
+    float: right;
+}
+
+.center-vert {
+    vertical-align: middle;
+}
+
+#content {
+    margin: 8px;
+}
+
+#buttons {
+    margin: 8px 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    margin: 0px;
+    padding: 8px;
+    display: inline;
+}
